@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Nordebra",
-	"newClientUrl" : "https://www.dropbox.com/scl/fi/5e01nnnt2z1ytkx0ieol0/Nordebra.zip?rlkey=mr8j45h0928o39nl83yd21pmn&st=lr7rvw7y&dl=0",
+	"newClientUrl" : "https://www.dropbox.com/scl/fi/5e01nnnt2z1ytkx0ieol0/Nordebra.zip?rlkey=mr8j45h0928o39nl83yd21pmn&st=ondaa4fb&dl=1",
 	"clientExecutable": "Nordebra.exe"
 }
