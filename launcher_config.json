@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Nordebra",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://download1500.mediafire.com/050nhwtw6hsg6P30dLa_FMPJlV-AhdbWVALgn5gGnny_DO_qTkV1GhbnptfUbGEbl14hiI__I_pTbDx4KdFsORLea_ykPqbCjV9-p94gwysVO1g3O-_1qOqZ3UqXntVwOfdk3VO8oK6MTtQYcYOfjdyza2MR7OATM93c0onTXT40Bg/u1mprz39jmhtoea/Nordebra.zip",
 	"clientExecutable": "Nordebra.exe"
 }
