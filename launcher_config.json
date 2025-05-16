@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Nordebra",
-	"newClientUrl" : "https://nordebra.online/nordebra.zip",
+	"newClientUrl" : "https://nordebra.online/nordebrabaiak.zip",
 	"clientExecutable": "Nordebra.exe"
 }
