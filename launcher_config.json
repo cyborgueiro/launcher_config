@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "5.0",
+	"clientVersion": "1.0",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Nordebra",
-	"newClientUrl" : "https://nordebra.online/nordebrabaiak.zip",
-	"clientExecutable": "Nordebra.exe"
+	"newClientUrl" : "https://www.dropbox.com/scl/fi/cn9rwkjxkqw9jquha19mg/Nordebra-Baiak-2.0.zip?rlkey=99536w60ataknblj2adzv9bsl&st=tb6toosp&dl=0",
+	"clientExecutable": "client.exe"
 }
